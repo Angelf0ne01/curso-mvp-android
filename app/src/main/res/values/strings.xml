@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvp_app_final</string>
+    <string name="placeholder_movie">pelicula</string>
+    <string name="placeholder_country">pais</string>
+</resources>
